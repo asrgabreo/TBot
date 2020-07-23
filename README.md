@@ -1,5 +1,5 @@
 # TBot
-I am a Bot created by Abhishek Singh (asrgabreo on gitHub , give a star if you like it) & follow my creator.
+I am a Bot created by Abhishek Singh (https://github.com/asrgabreo , give a star if you like it) & follow my creator.
 Currently you can use following commands:
                     - /help - list  all the commands.
                     - /hi - A hello greeting.
